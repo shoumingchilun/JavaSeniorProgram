@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaseTest/BaseTest.iml" filepath="$PROJECT_DIR$/BaseTest/BaseTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSeniorProgram.iml" filepath="$PROJECT_DIR$/JavaSeniorProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_Thread1/day01_Thread1.iml" filepath="$PROJECT_DIR$/day01_Thread1/day01_Thread1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_Thread2/day02_Thread2.iml" filepath="$PROJECT_DIR$/day02_Thread2/day02_Thread2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_String&amp;StringBuffer&amp;StringBuilder&amp;Date/day03_String&amp;StringBuffer&amp;StringBuilder&amp;Date.iml" filepath="$PROJECT_DIR$/day03_String&amp;StringBuffer&amp;StringBuilder&amp;Date/day03_String&amp;StringBuffer&amp;StringBuilder&amp;Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_OldDateAPI&amp;NewDateAPI&amp;Compare/day04_OldDateAPI&amp;NewDateAPI&amp;Compare.iml" filepath="$PROJECT_DIR$/day04_OldDateAPI&amp;NewDateAPI&amp;Compare/day04_OldDateAPI&amp;NewDateAPI&amp;Compare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05_Enum&amp;enum&amp;Annotation&amp;Collection1/day05_Enum&amp;enum&amp;Annotation&amp;Collection1.iml" filepath="$PROJECT_DIR$/day05_Enum&amp;enum&amp;Annotation&amp;Collection1/day05_Enum&amp;enum&amp;Annotation&amp;Collection1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06_Collection2/day06_Collection2.iml" filepath="$PROJECT_DIR$/day06_Collection2/day06_Collection2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07_Generic&amp;IO1/day07_Generic&amp;IO1.iml" filepath="$PROJECT_DIR$/day07_Generic&amp;IO1/day07_Generic&amp;IO1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08_IO2/day08_IO2.iml" filepath="$PROJECT_DIR$/day08_IO2/day08_IO2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09_IO3&amp;网络编程/day09_IO3&amp;网络编程.iml" filepath="$PROJECT_DIR$/day09_IO3&amp;网络编程/day09_IO3&amp;网络编程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10_Reflection/day10_Reflection.iml" filepath="$PROJECT_DIR$/day10_Reflection/day10_Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11_Proxy&amp;Lambda&amp;Stream/day11_Proxy&amp;Lambda&amp;Stream.iml" filepath="$PROJECT_DIR$/day11_Proxy&amp;Lambda&amp;Stream/day11_Proxy&amp;Lambda&amp;Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12_Java9/day12_Java9.iml" filepath="$PROJECT_DIR$/day12_Java9/day12_Java9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../eclipse_workspace/myproject3/myproject3.iml" filepath="$PROJECT_DIR$/../../../eclipse_workspace/myproject3/myproject3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticWeb/staticWeb.iml" filepath="$PROJECT_DIR$/staticWeb/staticWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/笔记/笔记.iml" filepath="$PROJECT_DIR$/笔记/笔记.iml" />
+    </modules>
+  </component>
+</project>
